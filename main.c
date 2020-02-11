@@ -12,6 +12,6 @@ void main()
 	int res = 0;
 	
 	print_all(int a);
-	res = addition(int NUMBER, int b);
-	find_max(int c, int res);
+	res = addition(a, b);
+	find_max(c, res);
 }
